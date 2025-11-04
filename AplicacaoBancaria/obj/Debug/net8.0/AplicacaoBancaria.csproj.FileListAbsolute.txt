@@ -1,0 +1,14 @@
+C:\Users\marta\Desktop\UNIFOA\5periodo\POO\aplicação bancária\AplicacaoBancaria\AplicacaoBancaria\bin\Debug\net8.0\AplicacaoBancaria.exe
+C:\Users\marta\Desktop\UNIFOA\5periodo\POO\aplicação bancária\AplicacaoBancaria\AplicacaoBancaria\bin\Debug\net8.0\AplicacaoBancaria.deps.json
+C:\Users\marta\Desktop\UNIFOA\5periodo\POO\aplicação bancária\AplicacaoBancaria\AplicacaoBancaria\bin\Debug\net8.0\AplicacaoBancaria.runtimeconfig.json
+C:\Users\marta\Desktop\UNIFOA\5periodo\POO\aplicação bancária\AplicacaoBancaria\AplicacaoBancaria\bin\Debug\net8.0\AplicacaoBancaria.dll
+C:\Users\marta\Desktop\UNIFOA\5periodo\POO\aplicação bancária\AplicacaoBancaria\AplicacaoBancaria\bin\Debug\net8.0\AplicacaoBancaria.pdb
+C:\Users\marta\Desktop\UNIFOA\5periodo\POO\aplicação bancária\AplicacaoBancaria\AplicacaoBancaria\obj\Debug\net8.0\AplicacaoBancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marta\Desktop\UNIFOA\5periodo\POO\aplicação bancária\AplicacaoBancaria\AplicacaoBancaria\obj\Debug\net8.0\AplicacaoBancaria.AssemblyInfoInputs.cache
+C:\Users\marta\Desktop\UNIFOA\5periodo\POO\aplicação bancária\AplicacaoBancaria\AplicacaoBancaria\obj\Debug\net8.0\AplicacaoBancaria.AssemblyInfo.cs
+C:\Users\marta\Desktop\UNIFOA\5periodo\POO\aplicação bancária\AplicacaoBancaria\AplicacaoBancaria\obj\Debug\net8.0\AplicacaoBancaria.csproj.CoreCompileInputs.cache
+C:\Users\marta\Desktop\UNIFOA\5periodo\POO\aplicação bancária\AplicacaoBancaria\AplicacaoBancaria\obj\Debug\net8.0\AplicacaoBancaria.dll
+C:\Users\marta\Desktop\UNIFOA\5periodo\POO\aplicação bancária\AplicacaoBancaria\AplicacaoBancaria\obj\Debug\net8.0\refint\AplicacaoBancaria.dll
+C:\Users\marta\Desktop\UNIFOA\5periodo\POO\aplicação bancária\AplicacaoBancaria\AplicacaoBancaria\obj\Debug\net8.0\AplicacaoBancaria.pdb
+C:\Users\marta\Desktop\UNIFOA\5periodo\POO\aplicação bancária\AplicacaoBancaria\AplicacaoBancaria\obj\Debug\net8.0\AplicacaoBancaria.genruntimeconfig.cache
+C:\Users\marta\Desktop\UNIFOA\5periodo\POO\aplicação bancária\AplicacaoBancaria\AplicacaoBancaria\obj\Debug\net8.0\ref\AplicacaoBancaria.dll
