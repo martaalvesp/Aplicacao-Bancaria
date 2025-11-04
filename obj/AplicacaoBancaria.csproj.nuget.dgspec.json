@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marta\\Desktop\\UNIFOA\\5periodo\\POO\\aplicação bancária\\AplicacaoBancaria\\AplicacaoBancaria\\AplicacaoBancaria.csproj": {}
+    "C:\\Users\\marta\\Aplicacao-Bancaria\\AplicacaoBancaria.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marta\\Desktop\\UNIFOA\\5periodo\\POO\\aplicação bancária\\AplicacaoBancaria\\AplicacaoBancaria\\AplicacaoBancaria.csproj": {
+    "C:\\Users\\marta\\Aplicacao-Bancaria\\AplicacaoBancaria.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marta\\Desktop\\UNIFOA\\5periodo\\POO\\aplicação bancária\\AplicacaoBancaria\\AplicacaoBancaria\\AplicacaoBancaria.csproj",
+        "projectUniqueName": "C:\\Users\\marta\\Aplicacao-Bancaria\\AplicacaoBancaria.csproj",
         "projectName": "AplicacaoBancaria",
-        "projectPath": "C:\\Users\\marta\\Desktop\\UNIFOA\\5periodo\\POO\\aplicação bancária\\AplicacaoBancaria\\AplicacaoBancaria\\AplicacaoBancaria.csproj",
+        "projectPath": "C:\\Users\\marta\\Aplicacao-Bancaria\\AplicacaoBancaria.csproj",
         "packagesPath": "C:\\Users\\marta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marta\\Desktop\\UNIFOA\\5periodo\\POO\\aplicação bancária\\AplicacaoBancaria\\AplicacaoBancaria\\obj\\",
+        "outputPath": "C:\\Users\\marta\\Aplicacao-Bancaria\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
