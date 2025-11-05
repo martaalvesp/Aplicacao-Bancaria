@@ -1,0 +1,14 @@
+C:\Users\marta\Documents\test\projetotest\projetotest\bin\Debug\net9.0\projetotest.exe
+C:\Users\marta\Documents\test\projetotest\projetotest\bin\Debug\net9.0\projetotest.deps.json
+C:\Users\marta\Documents\test\projetotest\projetotest\bin\Debug\net9.0\projetotest.runtimeconfig.json
+C:\Users\marta\Documents\test\projetotest\projetotest\bin\Debug\net9.0\projetotest.dll
+C:\Users\marta\Documents\test\projetotest\projetotest\bin\Debug\net9.0\projetotest.pdb
+C:\Users\marta\Documents\test\projetotest\projetotest\obj\Debug\net9.0\projetotest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marta\Documents\test\projetotest\projetotest\obj\Debug\net9.0\projetotest.AssemblyInfoInputs.cache
+C:\Users\marta\Documents\test\projetotest\projetotest\obj\Debug\net9.0\projetotest.AssemblyInfo.cs
+C:\Users\marta\Documents\test\projetotest\projetotest\obj\Debug\net9.0\projetotest.csproj.CoreCompileInputs.cache
+C:\Users\marta\Documents\test\projetotest\projetotest\obj\Debug\net9.0\projetotest.dll
+C:\Users\marta\Documents\test\projetotest\projetotest\obj\Debug\net9.0\refint\projetotest.dll
+C:\Users\marta\Documents\test\projetotest\projetotest\obj\Debug\net9.0\projetotest.pdb
+C:\Users\marta\Documents\test\projetotest\projetotest\obj\Debug\net9.0\projetotest.genruntimeconfig.cache
+C:\Users\marta\Documents\test\projetotest\projetotest\obj\Debug\net9.0\ref\projetotest.dll

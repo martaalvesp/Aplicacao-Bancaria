@@ -1,0 +1,15 @@
+{
+ "version": "2.0.0",
+ "tasks": [
+ {
+ "label": "Run in Integrated Terminal",
+ "type": "shell",
+ "command": "dotnet run --project projetotest/projetotest.csproj",
+ "problemMatcher": [],
+ "presentation": {
+ "reveal": "always",
+ "panel": "shared"
+ }
+ }
+ ]
+}

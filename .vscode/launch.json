@@ -1,0 +1,19 @@
+{
+ "version": "0.2.0",
+ "configurations": [
+ {
+ "name": ".NET Launch (console - integrated)",
+ "type": "coreclr",
+ "request": "launch",
+ "preLaunchTask": "build",
+ "program": "${workspaceFolder}/projetotest/bin/Debug/net9.0/projetotest.dll",
+ "args": [],
+ "cwd": "${workspaceFolder}/projetotest",
+ "stopAtEntry": false,
+ "console": "integratedTerminal",
+ "externalConsole": false,
+ "internalConsoleOptions": "neverOpen",
+ "justMyCode": true
+ }
+ ]
+}

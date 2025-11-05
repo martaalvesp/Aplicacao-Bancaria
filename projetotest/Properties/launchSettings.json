@@ -1,0 +1,13 @@
+{
+ "profiles": {
+ "projetotest": {
+ "commandName": "Project",
+ "dotnetRunMessages": true,
+ "launchBrowser": false,
+ "environmentVariables": {
+ "ASPNETCORE_ENVIRONMENT": "Development"
+ },
+ "console": "externalTerminal"
+ }
+ }
+}
